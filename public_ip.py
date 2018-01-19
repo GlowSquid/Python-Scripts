@@ -2,5 +2,5 @@
 
 import requests
 
-ip = requests.get("https://coralbeef.com/ip")
+ip = requests.get("https://glowsquid.com/ip")
 print(ip.text)
